@@ -1,0 +1,15 @@
+/Users/piyushshaw/Projects/DelegateDemo/DelegateDemo/obj/Debug/net6.0/DelegateDemo.csproj.AssemblyReference.cache
+/Users/piyushshaw/Projects/DelegateDemo/DelegateDemo/obj/Debug/net6.0/DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushshaw/Projects/DelegateDemo/DelegateDemo/obj/Debug/net6.0/DelegateDemo.AssemblyInfoInputs.cache
+/Users/piyushshaw/Projects/DelegateDemo/DelegateDemo/obj/Debug/net6.0/DelegateDemo.AssemblyInfo.cs
+/Users/piyushshaw/Projects/DelegateDemo/DelegateDemo/obj/Debug/net6.0/DelegateDemo.csproj.CoreCompileInputs.cache
+/Users/piyushshaw/Projects/DelegateDemo/DelegateDemo/bin/Debug/net6.0/DelegateDemo
+/Users/piyushshaw/Projects/DelegateDemo/DelegateDemo/bin/Debug/net6.0/DelegateDemo.deps.json
+/Users/piyushshaw/Projects/DelegateDemo/DelegateDemo/bin/Debug/net6.0/DelegateDemo.runtimeconfig.json
+/Users/piyushshaw/Projects/DelegateDemo/DelegateDemo/bin/Debug/net6.0/DelegateDemo.dll
+/Users/piyushshaw/Projects/DelegateDemo/DelegateDemo/bin/Debug/net6.0/DelegateDemo.pdb
+/Users/piyushshaw/Projects/DelegateDemo/DelegateDemo/obj/Debug/net6.0/DelegateDemo.dll
+/Users/piyushshaw/Projects/DelegateDemo/DelegateDemo/obj/Debug/net6.0/refint/DelegateDemo.dll
+/Users/piyushshaw/Projects/DelegateDemo/DelegateDemo/obj/Debug/net6.0/DelegateDemo.pdb
+/Users/piyushshaw/Projects/DelegateDemo/DelegateDemo/obj/Debug/net6.0/DelegateDemo.genruntimeconfig.cache
+/Users/piyushshaw/Projects/DelegateDemo/DelegateDemo/obj/Debug/net6.0/ref/DelegateDemo.dll

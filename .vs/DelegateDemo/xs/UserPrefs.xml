@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{88013576-8686-4AB0-AF93-9768CA414AC1}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EventDemo FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BinarySearchTreeDemo FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DelegateDemo/MulticastDelegate.cs">
+    <Files>
+      <File FileName="DelegateDemo/Program.cs" />
+      <File FileName="DelegateDemo/Demo.cs" />
+      <File FileName="DelegateDemo/MulticastDelegate.cs" Line="1" Column="1" />
+      <File FileName="BinarySearchTreeDemo/Program.cs" />
+      <File FileName="BinarySearchTreeDemo/BinarySearchTree.cs" />
+      <File FileName="EventDemo/Program.cs" />
+      <File FileName="EventDemo/Demo.cs" />
+      <File FileName="EventDemo/EventHandling.cs" />
+      <File FileName="HashTableDemo/Program.cs" />
+      <File FileName="HashTableDemo/MyMapNode.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DelegateDemo" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DelegateDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HashTableDemo FirstBuild="True" />
+</Properties>
